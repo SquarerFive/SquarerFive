@@ -3,7 +3,7 @@
 ## 3D and Rendering
 - Generating Planets and terrain using Signed-Distance Fields [link]
 - ![Current progress](https://media.discordapp.net/attachments/563601152885653533/776226747313815562/unknown.png?width=678&height=480)
-- [![Raymarched SDF](http://img.youtube.com/vi/yZO6COt8u0/0.jpg)](http://www.youtube.com/watch?v=yZO6COt8u0)
+- [![Raymarched SDF](http://img.youtube.com/vi/-yZO6COt8u0/0.jpg)](http://www.youtube.com/watch?v=-yZO6COt8u0)
 ## Procedural Generation
 - Marching Cubes - GPU Acceleration if possible
 - Manifold Dual Contouring
