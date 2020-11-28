@@ -14,6 +14,10 @@ Various stuff relating to procedural universe generation
   - Marching Cubes - GPU Acceleration if possible
   - Manifold Dual Contouring
   - Surface Nets
+  
+### Foliage Generation:
+  - L-Systems http://paulbourke.net/fractals/lsys/
+
 ## Universe Rendering
 - Camera relative hierarchical coordinate system  - [reference 1](https://dexyfex.com/2016/07/11/galaxia-the-basics-coordinates/)
 - Galaxy Rendering - Currently I have this rendering in a seperate pass where it is downsampled, additionally it isn't rendered in world space.
