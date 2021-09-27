@@ -12,3 +12,7 @@ Stuff I've been working on:
   - ![Voxel node graph](doc/nodeGraph.png)
   - Voxel world generated on the GPU using the graph.
   - ![World generated using the graph](doc/12SDD_voxelcraft.png)
+
+## AI and Games
+- ### Game AI: [Battlefield 3 Bots](https://github.com/SquarerFive/bf3-bots)
+- ### [Metaplanets - world engine, BF2 'inspired' game](https://github.com/SquarerFive/metaplanets-lite)
