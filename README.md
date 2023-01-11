@@ -1,11 +1,5 @@
 # SquarerFive
 
-I am a:
-- 🌍 Geospatial software develeoper
-- 🖥️ Full-stack programmer
-- 🎮 Hobbyist game developer
-- 🏛️ Founder of a startup
-
 # My stuff
 
 ## [GenericFoliage - Populate the world with vegetation](https://github.com/SquarerFive/GenericFoliage/)
