@@ -1,5 +1,17 @@
 # SquarerFive
 
+## Contacts
+
+If you need any custom support with my repositories, please contact me via any of the links below:
+
+|                | Link                                |
+|----------------|-------------------------------------|
+| Email          | squarerfiveofficial@gmail.com       |
+| Business Email | aiden@deepsurge.io                  |
+| Twitter        | https://twitter.com/aidenthebuilder |
+| Twitter        | https://twitter.com/AidenAS02       |
+
+
 # My stuff
 
 ## [GenericFoliage - Populate the world with vegetation](https://github.com/SquarerFive/GenericFoliage/)
