@@ -1,19 +1,11 @@
 # SquarerFive
 
-# My stuff
+Hey I'm Aiden, a 22-year-old simulation and geospatial intelligence specialist.
 
-## [GenericFoliage - Populate the world with vegetation](https://github.com/SquarerFive/GenericFoliage/)
+I am self employed at my own [company](https://starmatrix.io/) doing contract work for clients. The work I do ranges from AI/ML training & integration, design of digital twins for simulation, and the development of software for geoscientific, defense and analytical purposes. Additionally I have also co-founded a startup called VirtuWeather - enabling the realtime 3D visualization of weather across the globe.
 
-## [Cesium - Procedural Foliage Tutorial](https://cesium.com/learn/unreal/unreal-procedural-foliage/)
-- ![Procedural foliage result](https://prismic-io.s3.amazonaws.com/cesium/9f8e323f-fb09-4946-b76d-59a0fed026e5_foliage470.png)
+I've been interested in space from a very young age, having participated in a NASA competition at 13, relating to soil moisture extraction and even recreating our solar system in Unreal Engine.
 
+My open source projects are being used by individuals from companies & gov including SpaceX and IAI.
 
-## Procedural universe
-- ### Projection experiments - https://github.com/SquarerFive/PlanetSphericalProjection
-- ### SDF Node Graph 
-  - ![Voxel node graph](doc/nodeGraph.png)
-  - Voxel world generated on the GPU using the graph.
-  - ![World generated using the graph](doc/12SDD_voxelcraft.png)
-
-## AI and Games
-- ### Game AI: [Battlefield 3 Bots](https://github.com/SquarerFive/bf3-bots)
+Interested in consultations? Contact me at aiden@starmatrix.io
