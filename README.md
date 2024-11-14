@@ -6,7 +6,7 @@ I am currently self employed at my own [company](https://starmatrix.io/). The wo
 
 I've been interested in space from a very young age, having participated in a NASA competition at 13, relating to soil moisture extraction and even recreating our solar system in Unreal Engine.
 
-My open source projects are being used by many individuals and companies including SpaceX and IAI (Israel Aerospace Industries).
+My open source projects are being used by many individuals and companies including SpaceX and various government organizations.
 
 Interested in consultations? Contact me at aiden@starmatrix.io
 
